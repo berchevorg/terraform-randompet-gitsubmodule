@@ -1,3 +1,6 @@
 [submodule "gitsubmodule_test"]
 	path = gitsubmodule_test
 	url = https://github.com/berchevorg/gitsubmodule_test
+[submodule "patterns"]
+	path = patterns
+	url = https://github.com/berchevorg/patterns
